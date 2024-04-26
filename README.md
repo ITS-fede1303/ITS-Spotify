@@ -1,6 +1,7 @@
 # ITS-Spotify
-Project work Spotify
-<h2>Features:</h2>
+Project work copia di Spotify web per ITS.
+<h3>Features funzionanti:</h3>
 <ul>
-  <li>Nessuna</li>
+  <li>Interfaccia grafica</li>
+  <li>Pagina dinamica</li>
 </ul>
